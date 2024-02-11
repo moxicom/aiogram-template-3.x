@@ -1,0 +1,1 @@
+# Aiogram 3.x template by @moxicom
